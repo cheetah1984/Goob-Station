@@ -8,6 +8,9 @@ loadout-group-scientist-envirohelm = Scientist envirohelm
 loadout-group-scientist-envirosuit = Scientist envirosuit
 loadout-group-scientist-envirogloves = Scientist envirogloves
 
+loadout-group-senior-scientist-envirohelm = Senior Scientist envirohelm
+loadout-group-senior-scientist-envirosuit = Senior Scientist envirosuit
+
 # Research Assistant
 loadout-group-research-assistant-envirohelm = Research Assistant envirohelm
 loadout-group-research-assistant-envirosuit = Research Assistant envirosuit
@@ -22,6 +25,9 @@ loadout-group-chief-medical-officer-envirogloves = Chief Medical Officer envirog
 loadout-group-medical-doctor-envirohelm = Medical Doctor envirohelm
 loadout-group-medical-doctor-envirosuit = Medical Doctor envirosuit
 loadout-group-medical-doctor-envirogloves = Medical Doctor envirogloves
+
+loadout-group-senior-medical-doctor-envirohelm = Senior Physician envirohelm
+loadout-group-senior-medical-doctor-envirosuit = Senior Physician envirosuit
 
 # Medical Intern
 loadout-group-medical-intern-envirohelm = Medical Intern envirohelm
@@ -53,6 +59,9 @@ loadout-group-station-engineer-envirohelm = Station Engineer envirohelm
 loadout-group-station-engineer-envirosuit = Station Engineer envirosuit
 loadout-group-station-engineer-envirogloves = Station Engineer envirogloves
 
+loadout-group-station-engineer-senior-envirohelm = Senior Engineer envirohelm
+loadout-group-station-engineer-senior-envirosuit = Senior Engineer envirosuit
+
 # Technical Assistant
 loadout-group-technical-assistant-envirohelm = Technical Assistant envirohelm
 loadout-group-technical-assistant-envirosuit = Technical Assistant envirosuit
@@ -72,6 +81,9 @@ loadout-group-chief-engineer-envirogloves = Chief Engineer envirogloves
 loadout-group-security-officer-envirohelm = Security Officer envirohelm
 loadout-group-security-officer-envirosuit = Security Officer envirosuit
 loadout-group-security-officer-envirogloves = Security Officer envirogloves
+
+loadout-group-senior-security-officer-envirohelm = Senior Security Officer envirohelm
+loadout-group-senior-security-officer-envirosuit = Senior Security Officer envirosuit
 
 # Security Cadet
 loadout-group-security-cadet-envirohelm = Security Cadet envirohelm

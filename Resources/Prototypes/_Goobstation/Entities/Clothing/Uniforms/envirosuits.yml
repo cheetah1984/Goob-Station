@@ -1,0 +1,43 @@
+- type: entity
+  parent: ClothingUniformEnvirosuitBase
+  id: ClothingUniformEnvirosuitSeniorScientist
+  name: Senior scientist envirosuit
+  description: A Plasmaman envirosuit designed for prestigious researchers.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Clothing/Uniforms/Envirosuits/SeniorScientist.rsi
+  - type: Clothing
+    sprite: _Goobstation/Clothing/Uniforms/Envirosuits/SeniorScientist.rsi
+
+- type: entity
+  parent: ClothingUniformEnvirosuitBase
+  id: ClothingUniformEnvirosuitSeniorPhysician
+  name: Senior physician envirosuit
+  description: A Plasmaman envirosuit designed for prestigious physicians.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Clothing/Uniforms/Envirosuits/SeniorPhysician.rsi
+  - type: Clothing
+    sprite: _Goobstation/Clothing/Uniforms/Envirosuits/SeniorPhysician.rsi
+
+- type: entity
+  parent: ClothingUniformEnvirosuitBase
+  id: ClothingUniformEnvirosuitSeniorSecurityOfficer
+  name: Senior officer envirosuit
+  description: A Plasmaman envirosuit designed for prestigious officers.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Clothing/Uniforms/Envirosuits/SeniorSecurity.rsi
+  - type: Clothing
+    sprite: _Goobstation/Clothing/Uniforms/Envirosuits/SeniorSecurity.rsi
+
+- type: entity
+  parent: ClothingUniformEnvirosuitBase
+  id: ClothingUniformEnvirosuitSeniorEngineer
+  name: Senior engineer envirosuit
+  description: A Plasmaman envirosuit designed for prestigious engineers.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Clothing/Uniforms/Envirosuits/SeniorEngineer.rsi
+  - type: Clothing
+    sprite: _Goobstation/Clothing/Uniforms/Envirosuits/SeniorEngineer.rsi
