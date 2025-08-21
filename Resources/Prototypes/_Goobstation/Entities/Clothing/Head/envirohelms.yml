@@ -1,0 +1,43 @@
+- type: entity
+  parent: ClothingHeadEnvirohelmBase
+  id: ClothingHeadEnvirohelmSeniorScientist
+  name: senior scientist envirosuit helmet
+  description: A space-worthy helmet specially designed for the most prestigious scientists among plasmamen.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Clothing/Head/Envirohelms/SeniorScientist.rsi
+  - type: Clothing
+    sprite: _Goobstation/Clothing/Head/Envirohelms/SeniorScientist.rsi
+
+- type: entity
+  parent: ClothingHeadEnvirohelmBase
+  id: ClothingHeadEnvirohelmSeniorSecurity
+  name: senior security envirosuit helmet
+  description: A space-worthy helmet specially designed for the most prestigious security officers among plasmamen.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Clothing/Head/Envirohelms/SeniorSecurity.rsi
+  - type: Clothing
+    sprite: _Goobstation/Clothing/Head/Envirohelms/SeniorSecurity.rsi
+
+- type: entity
+  parent: ClothingHeadEnvirohelmBase
+  id: ClothingHeadEnvirohelmSeniorEngineer
+  name: senior engineer envirosuit helmet
+  description: A space-worthy helmet specially designed for the most prestigious engineers among plasmamen.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Clothing/Head/Envirohelms/SeniorEngineer.rsi
+  - type: Clothing
+    sprite: _Goobstation/Clothing/Head/Envirohelms/SeniorEngineer.rsi
+
+- type: entity
+  parent: ClothingHeadEnvirohelmBase
+  id: ClothingHeadEnvirohelmSeniorPhysician
+  name: senior physician envirosuit helmet
+  description: A space-worthy helmet specially designed for the most prestigious physicians among plasmamen.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Clothing/Head/Envirohelms/SeniorPhysician.rsi
+  - type: Clothing
+    sprite: _Goobstation/Clothing/Head/Envirohelms/SeniorPhysician.rsi
